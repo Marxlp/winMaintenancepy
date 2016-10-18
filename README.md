@@ -1,5 +1,5 @@
 # winMaintenancePy
-windows daily maintenance using python
+Microsoft Windows daily maintenance using python
 
 ###saf.py
   explaination: 
